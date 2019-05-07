@@ -2,11 +2,11 @@ ok    Mrstikove - Marysa
 ok    Dyk - Krysar
 ok    Bradbury - 451 stupnu Fahrenheita
 ok    Sofokles - Antigona
+ok    Orwell - 1984
+ok    L. Fuks - Spalovac mrtvol
     Hemingway - Starec a More
-    Orwell - 1984
     J.D.Salinger - Kdo chyta v zite
     Capek - RUR
-    L. Fuks - Spalovac mrtvol
     V. Havel - Zahradni slavnost
     V. Havel - Audience
     J. Skvorecky - Zbabelci
@@ -15,7 +15,6 @@ ok    Sofokles - Antigona
     Pratchett - Soudne sestry
     F.S. Fitzgerald - Velky Gatsby
     Capek - Hordubal
-
     O. Wilde - Obraz Doriana Graye
     Kvileni
     Macha - Maj
