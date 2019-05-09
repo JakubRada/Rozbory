@@ -13,8 +13,8 @@ ok    J. Skvorecky - Zbabelci
 ok    Pratchett - Soudne sestry
 ok    Capek - Hordubal
 ok    Capek - RUR
-    V. Havel - Zahradni slavnost
-    V. Havel - Audience
-    Smoljak - Svestka
-    Kvileni
-    Macha - Maj
+ok    V. Havel - Zahradni slavnost
+ok    V. Havel - Audience
+ok    Smoljak - Svestka
+ok    Kvileni
+ok    Macha - Maj
